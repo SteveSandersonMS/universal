@@ -1,5 +1,5 @@
 {
-  "name": "angular2-universal-preview",
+  "name": "angular2-universal-patched",
   "main": "dist/server/server.js",
   "browser": "dist/client/client.js",
   "version": "0.5.4",
